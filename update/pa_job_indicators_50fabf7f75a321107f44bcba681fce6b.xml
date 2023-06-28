@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>needit daily - needit: due monthly</display>
+        <indicator display_value="needit: due monthly">63926b77756321107f44bcba681fceb7</indicator>
+        <job display_value="needit daily">143af37f75a321107f44bcba681fce2e</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-27 21:38:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50fabf7f75a321107f44bcba681fce6b</sys_id>
+        <sys_name>needit: due monthly.needit daily</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_50fabf7f75a321107f44bcba681fce6b</sys_update_name>
+    </pa_job_indicators>
+</record_update>
